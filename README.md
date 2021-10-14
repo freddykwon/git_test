@@ -1,0 +1,1 @@
+This is Freddy's first git commit for The Odin Project!
